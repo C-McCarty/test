@@ -1,14 +1,14 @@
 {
-  users: [
+  "users": [
     [
-      userEmail: "someone@example.com",
-      userID: 0,
-      userName: "John Smith"
+      "userEmail": "someone@example.com",
+      "userID": 0,
+      "userName": "John Smith"
     ],
     [
-      userEmail: "test@test.test",
-      userID: 1,
-      userName: "Jane Doe"
+      "userEmail": "test@test.test",
+      "userID": 1,
+      "userName": "Jane Doe"
     ]
   ]
 }
